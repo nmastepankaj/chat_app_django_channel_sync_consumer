@@ -104,5 +104,5 @@ For support, email support@codingnap.com or follow me on insta or linkedin (nmas
 
 ## Appendix
 
-Code of this project is taken from the [Django Channel](https://channels.readthedocs.io/en/latest/tutorial/part_2.html) official website.
+- Code of this project is taken from the [Django Channel](https://channels.readthedocs.io/en/latest/tutorial/part_2.html) official website.
 - for more information visit [CodingNap](https://www.codingnap.com).
