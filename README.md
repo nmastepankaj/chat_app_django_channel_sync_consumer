@@ -67,8 +67,8 @@ Now your application is ready to use.
 Open this url (http://127.0.0.1:8000/chat/home/) in two different tabs and start messaging 
 
 ## Working Screenshots
-![User1 messages](https://github.com/nmastepankaj/chat_app_django_channel_sync_consumer/blob/main/user1.png?raw=true)
-![User2 messages](https://github.com/nmastepankaj/chat_app_django_channel_sync_consumer/blob/main/user2.png?raw=true)
+![User1 messages](https://github.com/nmastepankaj/chat_app_django_channel_sync_consumer/blob/main/ss/user1.png?raw=true)
+![User2 messages](https://github.com/nmastepankaj/chat_app_django_channel_sync_consumer/blob/main/ss/user1.png?raw=true)
 
 
 
